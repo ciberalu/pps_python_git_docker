@@ -13,6 +13,6 @@ pip install -r requirements.txt
 
 Para ejecutar la aplicación, usa el siguiente comando:
 
-python app.py
+python3 app.py
 
 
